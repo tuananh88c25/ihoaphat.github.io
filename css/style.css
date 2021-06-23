@@ -1218,7 +1218,7 @@ width: 378px;
 }
 .animation .device .display .slide1 {
   /* background: #000; */
-  background: url("images/thep-hop-ma-kem.jpg");
+  background: url("./images/thep-hop-ma-kem.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1230,7 +1230,7 @@ width: 378px;
 }
 .animation .device .display .slide2 {
   /* background: #000; */
-  background: url("images/ton-ma-mau.jpg");
+  background: url("./images/ton-ma-mau.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1242,7 +1242,7 @@ width: 378px;
 }
 .animation .device .display .slide3 {
   /* background: #000; */
-  background: url("images/luoi-thep-b40.jpg");
+  background: url("./images/luoi-thep-b40.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
